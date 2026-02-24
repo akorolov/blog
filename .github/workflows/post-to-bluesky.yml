@@ -41,7 +41,7 @@ jobs:
             DESCRIPTION=$(sed -n 's/^description: *//p' "$file" | tr -d "'\"")
 
             SLUG=$(basename "$file" .svx)
-            POST_URL="${SITE_URL}/${SLUG}"
+            POST_URL="${SITE_URL}/blog/${SLUG}"
 
             TEXT="new blog post alert: ${TITLE}
 
