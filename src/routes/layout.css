@@ -1,0 +1,50 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, autumn;
+}
+
+:root {
+  --font-family: "Podkova", serif;
+}
+
+[data-theme="autumn"] {
+  --color-primary: #a73169;
+  --color-primary-content: #f2f0ee;
+  --color-secondary: #355d68;
+  --color-secondary-content: #eeeeee;
+  --color-accent: #ec9a6d;
+  --color-accent-bright: #ffc27a;
+  --color-accent-headers: #2f4858;
+  --color-neutral-content: #ebe0d5;
+  --color-info: #6aaf9d;
+  --color-success: #f2f0ee;
+  --color-error: #e92d43;
+  --color-success-content: #c24b6e;
+  --color-error-content: #f2f0ee;
+  --color-base-200: #d9d3cd;
+}
+
+@layer base {
+  html {
+    height: 100%;
+  }
+
+  body {
+    font-family: var(--font-family);
+    background: var(--color-neutral-content);
+    min-height: 100%;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--color-accent-headers);
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+}

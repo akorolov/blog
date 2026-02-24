@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install -D daisyui)",
+      "mcp__svelte__list-sections",
+      "mcp__svelte__get-documentation",
+      "mcp__svelte__svelte-autofixer",
+      "Bash(npm run build)"
+    ]
+  }
+}

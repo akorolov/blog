@@ -1,0 +1,13 @@
+---
+title: Starting a blog
+date: '2026-02-23'
+description: Here we go again.
+---
+
+What's the point of this? Here's a quick overview.
+
+1. I'm running a Fabula Ultima game and have some thoughts.
+2. I play a lot of video games and have some thoughts.
+3. Sometimes I do other things have have some thoughts.
+
+If you're interested in following along, I guess check back here periodically. I haven't set up any kind of RSS. 
