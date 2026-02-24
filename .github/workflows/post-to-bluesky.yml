@@ -43,7 +43,7 @@ jobs:
             SLUG=$(basename "$file" .svx)
             POST_URL="${SITE_URL}/${SLUG}"
 
-            TEXT="New blog post: ${TITLE}
+            TEXT="New blog post alert: ${TITLE}
 
           ${DESCRIPTION}
 
