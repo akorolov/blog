@@ -6,10 +6,10 @@
 	<title>Posts</title>
 </svelte:head>
 
-<div class="mx-auto max-w-3xl px-4 py-12">
+<div class="mx-auto max-w-3xl px-4 py-6">
 	<h1 class="mb-8 text-4xl font-bold">Blog</h1>
 
-	<div class="flex flex-col gap-6">
+	<div class="flex flex-col gap-4">
 		{#each data.posts as post (post.slug)}
 			<a href="/blog/{post.slug}" class="card bg-base-100 card-hover">
 				<div class="card-body">
