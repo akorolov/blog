@@ -1,0 +1,19 @@
+---
+title: Tiling Forest Demo Review
+date: '2026-06-19'
+description: A short review of the demo Tiling Forest.
+---
+
+Tiling Forest is a demo of the game Tiling Town. The demo is basically a complete mini version of the full game. As a player, I love this because I get to play a full game, but also since the game isn't out yet TBD of if I actually buy it. Currently, I definitely plan to.
+
+Anyway, onto the demo itself: it's great. The puzzle concept is very cool, and the controls work well (I played on Steam deck and it was fine, but it's built for mouse and keyboard).
+
+I really liked the overall progression, in that it unlocked more puzzles than you currently had the tools to solve. I know some people are mixed on that style, but it's kind of a logic puzzle in itself to be able to figure out which ones are solvable and which ones aren't.
+
+In the forest version at least, I didn't get any of that "city builder" feel, so I would not categorize this as any kind of puzzle/city builder hybrid. It's just a puzzle game. It's possible the town version will be different. To me, city builders focus more on creativity and optimization puzzles, but neither are really present here.
+
+There's an included guidebook as well which I think does a great job introducing the rules and getting you started with the basics of how to think about the puzzles as logic problems. That being said, I'm not sure how accessible these puzzles will be for someone who hasn't does any logic puzzles before. It's not really a game that teaches you how to do the puzzles and then slowly ramps up in difficulty. In my opinion, the difficulty of the puzzles that needed to be done to unlock additional tools was pretty steady. I haven't finished the demo yet (I'm a couple hours in), but it does look like the second half is pretty similar in terms of difficulty?
+
+Overall, the demo is free, so it's definitely worth trying out and seeing if you like it.
+
+[Link to Steam page](https://store.steampowered.com/app/4213590/Tiling_Forest__Tiling_Town_Demo/)
